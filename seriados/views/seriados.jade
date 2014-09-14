@@ -1,0 +1,6 @@
+extends layout
+
+block content 
+        each seriado, i in seriados
+         .btn.btn-primary.btn-lg 
+               <b>#{seriado.nome}</b> com: #{seriado.personagens} 

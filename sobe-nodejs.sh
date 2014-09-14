@@ -1,0 +1,6 @@
+
+
+cd seriados
+
+npm start
+
