@@ -36,6 +36,7 @@ db.seriados.findOne()
 
 * Para executar o exemplo
 
+```
 git clone
 
 cd mongodb-nodejs-casadocodigo
@@ -43,4 +44,5 @@ cd mongodb-nodejs-casadocodigo
 npm install 
 
 ./sobe-nodejs
+```
 
